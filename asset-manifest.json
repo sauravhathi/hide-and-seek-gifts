@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hide-and-seek-gifts/static/css/main.f461e98b.css",
+    "main.js": "/hide-and-seek-gifts/static/js/main.52f5e38f.js",
+    "static/js/787.24ff2420.chunk.js": "/hide-and-seek-gifts/static/js/787.24ff2420.chunk.js",
+    "index.html": "/hide-and-seek-gifts/index.html",
+    "main.f461e98b.css.map": "/hide-and-seek-gifts/static/css/main.f461e98b.css.map",
+    "main.52f5e38f.js.map": "/hide-and-seek-gifts/static/js/main.52f5e38f.js.map",
+    "787.24ff2420.chunk.js.map": "/hide-and-seek-gifts/static/js/787.24ff2420.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f461e98b.css",
+    "static/js/main.52f5e38f.js"
+  ]
+}
